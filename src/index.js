@@ -141,8 +141,6 @@ function buyTicket(films){
     7. fetch the new object to the server
     8. get the new value of the tickets_sold
     9. update the text content of the movieTickets
-    
-
     */
    
 }
