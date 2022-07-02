@@ -5,7 +5,7 @@
       "title": "The Giant Gila Monster",
       "runtime": "108",
       "capacity": 30,
-      "tickets_sold": 4,
+      "tickets_sold": 13,
       "showtime": "04:00PM",
       "description": "A giant lizard terrorizes a rural Texas community and a heroic teenager attempts to destroy the creature.",
       "poster": "https://www.gstatic.com/tv/thumb/v22vodart/2157/p2157_v_v8_ab.jpg"
@@ -106,7 +106,7 @@
       "runtime": "104",
       "capacity": 30,
       "showtime": "06:00PM",
-      "tickets_sold": 12,
+      "tickets_sold": 18,
       "description": "A group of swingin' teens take time out from having fun in the sun to try to foil a group of crooks searching for a stolen scroll.",
       "poster": "https://www.gstatic.com/tv/thumb/v22vodart/58122/p58122_v_v8_aa.jpg"
     },
